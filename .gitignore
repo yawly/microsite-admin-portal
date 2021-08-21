@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+**/.DS_Store/
+*.iml
+bin/
+etc/
+node/
+node_modules/
+build/
+v8-compile-cache-0/
+npm-debug.log
