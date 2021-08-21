@@ -74,8 +74,7 @@ module.exports = {
             },
           },
           {
-            loader: "sass-loader",
-            options: { url: false },
+            loader: 'sass-loader'
           },
           {
             loader: "webpack-import-glob-loader",
